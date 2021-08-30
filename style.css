@@ -203,3 +203,22 @@ img {
 img:hover {
     transform: scale(0.9)
 }
+#contact iframe {
+   width: 70%;
+    height: 70%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1{
+    background-color: oldlace;
+}
+#contact{
+   margin-top: 2600px; 
+}
+h2{
+    text-decoration:underline;
+}
+h3{
+    font-size: 30px
+}
